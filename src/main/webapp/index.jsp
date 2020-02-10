@@ -28,6 +28,23 @@
     </nav>
 </div>
 <hr>
+<div class="row d-flex p-2">
+    <div class="input-group mb-3">
+        <div class="input-group-prepend">
+            <label class="input-group-text" for="inputGroupSelect1">Municipi:</label>
+        </div>
+        <select class="custom-select" id="inputGroupSelect1">
+            <option value="palma">Palma</option>
+            <option value="1">One</option>
+            <option value="2">Two</option>
+            <option value="3">Three</option>
+        </select>
+        <div class="input-group-prepend">
+            <label class="input-group-text" for="inputPlaces">Número de plaçes buides:</label>
+        </div>
+        <input type="number" class="form-control" id="inputPlaces">
+    </div>
+</div>
 <div class="row">
     <div class="col-3 shadow p-3 mb-5 bg-white rounded">Número de llocs disponibles:</div>
 </div>

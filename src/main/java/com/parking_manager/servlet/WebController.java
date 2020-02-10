@@ -6,4 +6,5 @@ import javax.servlet.http.HttpServlet;
 @WebServlet("/")
 public class WebController extends HttpServlet {
 
+
 }
