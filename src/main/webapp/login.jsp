@@ -40,5 +40,6 @@
         <button type="submit" class="btn btn-primary">Submit</button>
     </form>
 </div>
+<a href="./registro.jsp">No tens compte?</a>
 
 <jsp:include page="common/footer.jsp"/>
